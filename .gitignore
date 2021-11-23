@@ -1,0 +1,14 @@
+# standard python project junk
+__pycache__/*
+**/__pycache__/*
+.idea/*
+# office temp files
+*.~lock.*#
+# common temp folder names
+out/*
+output/*
+run/*
+tmp/*
+temp/*
+build/*
+dist/*
